@@ -1,0 +1,23 @@
+{
+  "name": "Bootsttrap Tutorial",
+  "authors": [
+    "md-mannan <mdmannan580@gmail.com>"
+  ],
+  "description": "Learning Web Designing With Bootstrap By Stack Learner Youtube Chanale",
+  "main": "index.html",
+  "keywords": [
+    "Bootstrap",
+    "Jquery",
+    "PopperJs",
+    "FontAwesome"
+  ],
+  "license": "MIT",
+  "homepage": "lecture(num)/index.html",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^2.5.4",
+    "fontawesome": "^5.15.1"
+  }
+}
